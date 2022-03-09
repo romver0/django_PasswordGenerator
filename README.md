@@ -1,3 +1,3 @@
 # django_PasswordGenerator
-First django project
-site - http://romver.pythonanywhere.com/
+First django project\n
+my site - http://romver.pythonanywhere.com/
